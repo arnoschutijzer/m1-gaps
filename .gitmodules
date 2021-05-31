@@ -1,0 +1,3 @@
+[submodule "keycloak-containers"]
+	path = keycloak-containers
+	url = git@github.com:keycloak/keycloak-containers.git
